@@ -202,3 +202,6 @@ This repository serves as the official landing page for SpyBot Search & Destroy 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SpyBot Search & Destroy Portable today!**
+
+---
+**Last updated:** 2026-11-08 11:46:28 UTC
