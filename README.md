@@ -204,4 +204,4 @@ This repository serves as the official landing page for SpyBot Search & Destroy 
 **Get the most recent version of SpyBot Search & Destroy Portable today!**
 
 ---
-**Last updated:** 2026-11-12 17:25:12 UTC
+**Last updated:** 2026-11-12 23:19:00 UTC
